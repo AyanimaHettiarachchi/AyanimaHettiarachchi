@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img align="center" width="100%" src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Welcome Banner" />
+  <img align="center" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3dXKXlC2Ijgx2wKEByvaCK&ust=1732122252441000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDi-6fw6IkDFQAAAAAdAAAAABAJ" alt="Welcome Banner" />
 </p>
 
 ---
