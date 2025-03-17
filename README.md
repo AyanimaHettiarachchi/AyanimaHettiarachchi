@@ -9,7 +9,7 @@
 
 <h2 align="center">👨‍💻 About Me:</h2>
 <p align="center">
-  I am a second-year, second-semester undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), pursuing a BSc (Hons) in Information Technology with a specialization in Web Development and Mobile App Design. My passion lies in creating modern, user-friendly solutions that blend innovation and functionality.
+  I am a third-year, first-semester undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), pursuing a BSc (Hons) in Information Technology with a specialization in Web Development and Mobile App Design. My passion lies in creating modern, user-friendly solutions that blend innovation and functionality.
 </p>
 
 <p align="center">
